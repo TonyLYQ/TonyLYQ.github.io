@@ -3,20 +3,45 @@
  font-size:56px; 
 }
 body { 
- background-color:azure; 
+ background-color:azure;
+ text align:center;
 }
 p { 
  color:black; 
 }                                                        
 .box1{
-      color:#fcedb9;
+      color:red;
       width:90%;
       font-family:"STKAITI";
-      border-radius:25px;
+      border-radius:10px;
       border-top:5px #fcedb9 dotted;
       border-bottom:5px #fcedb9 dotted;
       border-left:5px #fcedb9 double;
       border-right:5px #fcedb9 double;
       border-radius:10px;
+      margin:5px 30px
+}
+.box2{
+      color:red;
+      width:90%;
+      font-family:"STKAITI";
+      border-radius:10px;
+      border-top:5px #fcedb9 double;
+      border-bottom:5px #fcedb9 double;
+      border-left:5px #fcedb9 double;
+      border-right:5px #fcedb9 double;
+      border-radius:10px;
+      margin:5px 30px
+}
+.box3{
+      color:#fcedb7;
+      width:90%;
+      font-family:"STKAITI";
+      border-radius:0px;
+      border-top:5px #fcedb7 dotted;
+      border-bottom:5px #fcedb7 dotted;
+      border-left:5px #fcedb7 dotted;
+      border-right:5px #fcedb7 dotted;
+      border-radius:0px;
       margin:5px 30px
 }
