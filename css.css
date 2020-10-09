@@ -1,7 +1,6 @@
  h1 { 
  color:black; 
  font-size:56px;
- font-family:"TIMESNEWROMAN"
 }
 body { 
  background-color:azure;
@@ -35,7 +34,7 @@ p {
       margin:5px 30px
 }
 .box3{
-      color:#fcedb7;
+      color:blue;
       width:90%;
       font-family:"STKAITI";
       border-radius:0px;
